@@ -2,7 +2,7 @@
 
 This repository provides the source code and experimental data for the paper "Binary Shape-Based Benchmarks for Analyzing Search Preferences in Multi-objective Combinatorial Optimization" accetp at SWEVO.
 
-Author: Xuepeng Ren, Shengxiang Yang Fellow, IEEE(Corresponding author), Guangming Dai, Maocai Wang
+Author: Xuepeng Ren, Shengxiang Yang Fellow, IEEE(Corresponding author), Guangming Dai, Maocai Wang (Corresponding author)
 
 Requirements
 
