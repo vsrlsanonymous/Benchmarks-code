@@ -12,8 +12,4 @@ PlatEMO (if used), included in this package or referenced accordingly
 
 Notes 
 
-************************************************************************
-
-All materials will be migrated to a public project repository after acceptance.
-
-******************************************************************************
+If you have any questions, please add QQ: 809046388 or WeChat: follownosetform.
