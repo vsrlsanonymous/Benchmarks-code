@@ -14,4 +14,4 @@ Notes
 
 If you have any questions, please add QQ: 809046388 or WeChat: follownosetform.
 
-我是本文的第一作者，我会回答所有相关复现问题，以及相关问题的答疑。
+我是本文的第一作者，我会回答所有相关复现问题，以及相关问题的答疑，BINARYSHAPE.m代码可以直接在田野老师的Platemo运行。
